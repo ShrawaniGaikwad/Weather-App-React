@@ -1,6 +1,6 @@
 # React + Vite
 
-This is a Tic-Tac-Toe Project.
+This is a Weathre App Project.
 
 To execute this you need a node_modules folder by executing this command npm install.
 
